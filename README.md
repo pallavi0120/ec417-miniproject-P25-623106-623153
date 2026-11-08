@@ -38,9 +38,7 @@
 3. Download dataset and run training: `python scripts/get_data.py && python src/train.py`
 4. Evaluate models: `python src/evaluate.py`
 
-## 9. AI-Use Statement
-Assisted by an AI peer for coding data loaders, PyTorch training loops, evaluation metrics formatting, and structuring the portfolio README. All code and results were personally reviewed and executed.
 
-## 10. References
+## 9. References
 * Nilsback, M-E., & Zisserman, A. (2008). Automated flower classification over a large number of classes. ICVGIP.
 * Dosovitskiy, A., et al. (2020). An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
