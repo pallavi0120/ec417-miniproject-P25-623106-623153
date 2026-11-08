@@ -19,10 +19,10 @@
 
 ## 5. Results Table
 
-| Model | Top-1 Accuracy (%) | Top-5 Accuracy (%) | Train Time |
-| :--- | :--- | :--- | :--- |
-| Baseline (ResNet-18) | 78.50 | 91.74 | ~3 mins |
-| Main Model (ViT-B/16) | 95.84 | 98.68 | ~5 mins |
+| Model | Top-1 Accuracy (%) | Top-5 Accuracy (%) |
+| :--- | :--- | :--- | 
+| Baseline (ResNet-18) | 78.50 | 91.74 | 
+| Main Model (ViT-B/16) | 95.84 | 98.68 |
 
 ## 6. Error Analysis
 * ViT successfully captures global floral structures and color distributions, minimizing confusions between visually similar species.
