@@ -39,4 +39,4 @@ def train_model(model_name="resnet18", epochs=5, lr=1e-4):
     print(f"Model saved to results/{model_name}_best.pth")
 
 if __name__ == "__main__":
-    train_model("resnet18", epochs=3)
+    train_model("vit", epochs=3, lr=5e-5)
