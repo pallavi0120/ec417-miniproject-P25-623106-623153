@@ -59,4 +59,4 @@ def evaluate_model(model_name="resnet18"):
     print(f"Metrics saved to {csv_path}")
 
 if __name__ == "__main__":
-    evaluate_model("resnet18")
+    evaluate_model("vit")
